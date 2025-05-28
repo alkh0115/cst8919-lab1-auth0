@@ -1,4 +1,4 @@
-# cst8919-Lab 1: Auth0 Python Web App Integration
+# CST8919-Lab 1: Auth0 Python Web App Integration
 
 This project demonstrates how to implement secure login and logout functionality in a Python Flask application using Auth0. It includes a protected route accessible only by authenticated users.
 
@@ -73,7 +73,7 @@ You can:
 - Click “Logout” to end session
 
 ### Protected Route
-The /protected route is only accessible to authenticated users. If a user is not logged in, they will be redirected to the login screen.
+The `/protected` route is only accessible to authenticated users. If a user is not logged in, they will be redirected to the login screen.
 
 ---
 ## Demo Video:
